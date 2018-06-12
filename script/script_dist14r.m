@@ -1,0 +1,15 @@
+[d000703,path, pred]=graphshortestpath(A,703,'Directed', false);
+[d004673,path, pred]=graphshortestpath(A,4673,'Directed', false);
+[d011989,path, pred]=graphshortestpath(A,11989,'Directed', false);
+[d021588,path, pred]=graphshortestpath(A,21588,'Directed', false);
+[d002451,path, pred]=graphshortestpath(A,2451,'Directed', false);
+[d007491,path, pred]=graphshortestpath(A,7491,'Directed', false);
+[d016725,path, pred]=graphshortestpath(A,16725,'Directed', false);
+[d012401,path, pred]=graphshortestpath(A,12401,'Directed', false);
+[d007945,path, pred]=graphshortestpath(A,7945,'Directed', false);
+[d002877,path, pred]=graphshortestpath(A,2877,'Directed', false);
+[d007582,path, pred]=graphshortestpath(A,7582,'Directed', false);
+[d031044,path, pred]=graphshortestpath(A,31044,'Directed', false);
+[d020311,path, pred]=graphshortestpath(A,20311,'Directed', false);
+[d012287,path, pred]=graphshortestpath(A,12287,'Directed', false);
+% script_dist14r;

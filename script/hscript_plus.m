@@ -1,0 +1,40 @@
+%polus
+rsbc000505=rsbr000505+rsb000505;
+%calcar superior
+rsbc003118=rsbr003118+rsb003118;
+rsbc008488=rsbr008488+rsb008488;
+rsbc018914=rsbr018914+rsb018914;
+%calcar bottom
+rsbc007023=rsbr007023+rsb007023;
+rsbc010640=rsbr010640+rsb010640;
+rsbc029021=rsbr029021+rsb029021;
+%calcar low
+rsbc003625=rsbr003625+rsb003625;
+rsbc012348=rsbr012348+rsb012348;
+rsbc023663=rsbr023663+rsb023663;
+%occipitotemp margin
+rsbc014446=rsbr014446+rsb014446;
+rsbc008919=rsbr008919+rsb008919;
+%occipitotemp bottom
+rsbc019479=rsbr019479+rsb019479;
+rsbc021422=rsbr021422+rsb021422;
+%roland anterior
+rsbc080938=rsbr080938+rsb080938;
+rsbc097355=rsbr097355+rsb097355;
+rsbc107907=rsbr107907+rsb107907;
+%roland bottom
+rsbc068542=rsbr068542+rsb068542;
+rsbc071133=rsbr071133+rsb071133;
+rsbc082514=rsbr082514+rsb082514;
+%roland posterior
+rsbc067235=rsbr067235+rsb067235;
+rsbc078603=rsbr078603+rsb078603;
+rsbc090269=rsbr090269+rsb090269;
+%silvian margin
+rsbc050569=rsbr050569+rsb050569;
+rsbc074124=rsbr074124+rsb074124;
+rsbc103416=rsbr103416+rsb103416;
+%silvian bottom
+rsbc069051=rsbr069051+rsb069051;
+rsbc082754=rsbr082754+rsb082754;
+%hscript_plus;

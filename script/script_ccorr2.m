@@ -1,0 +1,41 @@
+i=1;
+%polus
+c(i)=corr2(e000505,rsb000505); i=i+1;
+%calcar superior
+c(i)=corr2(e003118,rsb003118); i=i+1;
+c(i)=corr2(e008488,rsb008488); i=i+1;
+c(i)=corr2(e018914,rsb018914); i=i+1;
+%calcar bottom
+c(i)=corr2(e007023,rsb007023); i=i+1;
+c(i)=corr2(e010640,rsb010640); i=i+1;
+c(i)=corr2(e029021,rsb029021); i=i+1;
+%calcar low
+c(i)=corr2(e003625,rsb003625); i=i+1;
+c(i)=corr2(e012348,rsb012348); i=i+1;
+c(i)=corr2(e023663,rsb023663); i=i+1;
+%occipitotemp margin
+c(i)=corr2(e014446,rsb014446); i=i+1;
+c(i)=corr2(e008919,rsb008919); i=i+1;
+%occipitotemp bottom
+c(i)=corr2(e019479,rsb019479); i=i+1;
+c(i)=corr2(e021422,rsb021422); i=i+1;
+%roland anterior
+c(i)=corr2(e080938,rsb080938); i=i+1;
+c(i)=corr2(e097355,rsb097355); i=i+1;
+c(i)=corr2(e107907,rsb107907); i=i+1;
+%roland bottom
+c(i)=corr2(e068542,rsb068542); i=i+1;
+c(i)=corr2(e071133,rsb071133); i=i+1;
+c(i)=corr2(e082514,rsb082514); i=i+1;
+%roland posterior
+c(i)=corr2(e067235,rsb067235); i=i+1;
+c(i)=corr2(e078603,rsb078603); i=i+1;
+c(i)=corr2(e090269,rsb090269); i=i+1;
+%silvian margin
+c(i)=corr2(e050569,rsb050569); i=i+1;
+c(i)=corr2(e074124,rsb074124); i=i+1;
+c(i)=corr2(e103416,rsb103416); i=i+1;
+%silvian bottom
+c(i)=corr2(e069051,rsb069051); i=i+1;
+c(i)=corr2(e082754,rsb082754); i=i+1;
+% r = 0.7502-0.9720;

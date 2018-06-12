@@ -1,0 +1,15 @@
+MaxDist=0.04; %m 
+LenghtWave=0.04; %m
+Nstep=50;
+Wfrequ=10; %Hz
+Nsampl=500;
+amp153215=meshm_wave(d153215,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp153610=meshm_wave(d153610,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp254887=meshm_wave(d254887,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp241109=meshm_wave(d241109,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp224577=meshm_wave(d224577,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp233910=meshm_wave(d233910,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp003892=meshm_wave(d003892,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp011523=meshm_wave(d011523,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp181594=meshm_wave(d181594,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp168678=meshm_wave(d168678,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);

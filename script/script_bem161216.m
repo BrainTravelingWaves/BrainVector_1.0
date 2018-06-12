@@ -1,0 +1,10 @@
+sb003892m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip003892m,'equiv');
+sb011523m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip011523m,'equiv');
+sb153215m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip153215m,'equiv');
+sb153610m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip153610m,'equiv');
+sb181594m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip181594m,'equiv');
+sb224577m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip224577m,'equiv');
+sb233910m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip233910m,'equiv');
+sb241109m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip241109m,'equiv');
+sb254887m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip254887m,'equiv');
+sb168678m=meschm_pot(cortexfile,innerfile,headfile,outerfile,eegfon128.Channel,iEEG,dip168678m,'equiv');

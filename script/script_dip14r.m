@@ -1,0 +1,15 @@
+[a000703,l000703,q000703]=cortex_dipl(cortex_r, d000703,PARAM);
+[a004673,l004673,q004673]=cortex_dipl(cortex_r, d004673,PARAM);
+[a011989,l011989,q011989]=cortex_dipl(cortex_r, d011989,PARAM);
+[a021588,l021588,q021588]=cortex_dipl(cortex_r, d021588,PARAM);
+[a002451,l002451,q002451]=cortex_dipl(cortex_r, d002451,PARAM);
+[a007491,l007491,q007491]=cortex_dipl(cortex_r, d007491,PARAM);
+[a016725,l016725,q016725]=cortex_dipl(cortex_r, d016725,PARAM);
+[a012401,l012401,q012401]=cortex_dipl(cortex_r, d012401,PARAM);
+[a007945,l007945,q007945]=cortex_dipl(cortex_r, d007945,PARAM);
+[a002877,l002877,q002877]=cortex_dipl(cortex_r, d002877,PARAM);
+[a007582,l007582,q007582]=cortex_dipl(cortex_r, d007582,PARAM);
+[a031044,l031044,q031044]=cortex_dipl(cortex_r, d031044,PARAM);
+[a020311,l020311,q020311]=cortex_dipl(cortex_r, d020311,PARAM);
+[a012287,l012287,q012287]=cortex_dipl(cortex_r, d012287,PARAM);
+% script_dip14r;

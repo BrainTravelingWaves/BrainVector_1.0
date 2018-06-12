@@ -1,0 +1,19 @@
+distl=meshm_dist(cortex,10129);  % left hemisphere 
+distr=meshm_dist(cortex,175115); % right hemisphere 
+MaxDist=0.04 %m 
+LenghtWave=0.04 %m
+Nstep=50;
+Wfrequ=10; %Hz
+Nsampl=500;
+ampl=meshm_wave(distl,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+ampr=meshm_wave(distr,MaxDist,LenghtWave,Nstep,Wfrequ,Nsampl);
+amp=ampl+ampr;
+[dipe,Dipole]=meshm_dipl2(cortex,amp);
+lenghtdip=5;
+hemisphere=0;
+view=0;
+al=0.5;
+video=0; %right
+%meshm_viewc(cortex,amp,dip,lenghtdip,hemisphere,view,al,video);
+iEEG=1:128;
+pot_scalp=meschm_pot(cortex,iskull,oskull,head,eegfon128,iEEG,dipe,'equiv'); %'elem' or 'equiv'

@@ -1,0 +1,13 @@
+lenghtdip=15000;
+hemisphere=0;
+view=0;
+al=0.4;
+video=0;
+%video=0;
+startmesh=152700;
+dip=dip18914;
+amp=a18914;
+%meshm_viewc(cortex,amp(:,:,1),dipc,lenghtdip,hemisphere,view,al,video);
+%meshm_viewci(cortex,amp(:,:,1),dipc,lenghtdip,hemisphere,152700,view,al,video);
+meshm_viewci(cortex,amp,dip,lenghtdip,hemisphere,startmesh,view,al,video);
+% script_view;

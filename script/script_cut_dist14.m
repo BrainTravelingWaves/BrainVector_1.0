@@ -1,0 +1,21 @@
+%polus
+d000505= cut_dist(d000505,42000);
+%calcar superior
+d003118= cut_dist(d003118,42000);
+d008488= cut_dist(d008488,42000);
+d018914= cut_dist(d018914,42000);
+%calcar bottom
+d007023= cut_dist(d007023,42000);
+d010640= cut_dist(d010640,42000);
+d029021= cut_dist(d029021,42000);
+%calcar low
+d003625= cut_dist(d003625,42000);
+d012348= cut_dist(d012348,42000);
+d023663= cut_dist(d023663,42000);
+%occipitotemp margin
+d014446= cut_dist(d014446,42000);
+d008919= cut_dist(d008919,42000);
+%occipitotemp bottom
+d019479= cut_dist(d019479,42000);
+d021422= cut_dist(d021422,42000);
+% script_cut_dist14;

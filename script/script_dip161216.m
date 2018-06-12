@@ -1,0 +1,10 @@
+dip153215=meshm_dipl(cortex,amp153215);
+dip153610=meshm_dipl(cortex,amp153610);
+dip254887=meshm_dipl(cortex,amp254887);
+dip241109=meshm_dipl(cortex,amp241109);
+dip224577=meshm_dipl(cortex,amp224577);
+dip233910=meshm_dipl(cortex,amp233910);
+dip003892=meshm_dipl(cortex,amp003892);
+dip011523=meshm_dipl(cortex,amp011523);
+dip181594=meshm_dipl(cortex,amp181594);
+dip168678=meshm_dipl(cortex,amp168678);
